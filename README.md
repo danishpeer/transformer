@@ -36,7 +36,9 @@ To get started with this project, follow these steps:
     ```bash
     pip install -r requirements.txt
     ```
-3. Run the training script:
+
+3. Optionally, Configure the parameters in `config.py` based on requirements and limitations.
+4. Run the training script:
 
     ```bash
     python3 train.py
