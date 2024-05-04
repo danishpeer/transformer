@@ -10,6 +10,7 @@ The Transformer model is based on the attention mechanism, which allows the mode
 <p align="center">
   <img src="transformer_architecture.webp" width="400" height="600">
 </p>
+
 ## Project Structure
 
 This project includes the following files:
