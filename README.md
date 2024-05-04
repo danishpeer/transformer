@@ -6,7 +6,7 @@ This repository contains an implementation of the Transformer model from scratch
 
 The Transformer model is based on the attention mechanism, which allows the model to focus on the most relevant parts of the input sequence when generating the output sequence. The architecture consists of an encoder and a decoder, both composed of multiple layers of multi-head attention and feed-forward networks.
 
-![Transformer Architecture](transformer_architecture.png)
+![Transformer Architecture](transformer_architecture.webp)
 
 ## Project Structure
 
